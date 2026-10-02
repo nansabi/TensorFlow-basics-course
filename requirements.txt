@@ -1,0 +1,5 @@
+tensorflow==2.20.0
+matplotlib>=3.8
+pandas>=2.0
+ipykernel
+notebook>=7.0
